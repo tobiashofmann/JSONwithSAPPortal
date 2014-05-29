@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+  <application-config/>
+  <components>
+    <component name="ScnBlog">
+      <component-config>
+        <property name="ClassName" value="com.tobias.blog.json.ScnBlog"/>
+      </component-config>
+      <component-profile/>
+    </component>
+  </components>
+  <services/>
+</application>
